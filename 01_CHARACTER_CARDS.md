@@ -16,7 +16,7 @@ Characters retain memories of meaningful interactions and pursue their own goals
 - **Gender:** Female
 - **Race / Species / Origin:** Demon; born human in a remote mountain village in Kii Province
 - **Background:** Village inn singer. A mysterious traveler arrived, a massacre followed, and he offered Ashe the choice to become a demon. She accepted.
-- **Current Location:** Mountain Village, Kii
+- **Current Location:** Ashe's Family House, Mountain Village, Kii
 - **Former Occupation:** Singer at the village inn
 - **Current Role:** Newly transformed demon
 
@@ -45,8 +45,8 @@ Eat. Evolve. Grow stronger. Eventually become powerful enough to challenge for a
 
 #### Techniques / Abilities
 - No established Blood Demon Art.
-- Demonic physiology is newly present but has not yet been fully tested.
-- Voice remains Ashe's strongest known natural talent.
+- Demonic physiology is newly present and has now been partially tested: heightened senses, increased speed and agility, improved strength, rapid healing from minor/deeper cuts, severe hunger, and feeding-related physical improvement.
+- **Resonance:** emerging supernatural vocal influence. Ashe's singing has been observed to calm frightened listeners and make surrender feel emotionally acceptable. Limits unknown and not yet classified as a Blood Demon Art.
 
 #### Inventory
 Not yet established.
@@ -67,6 +67,8 @@ Unknown.
 - A mysterious traveler arrived and disaster followed.
 - Ashe accepted his offer to become a demon.
 - Newly transformed in 1862.
+- During her first night as a demon, Ashe fed three times after encountering wounded survivors.
+- Her singing manifested an unusual influence over frightened survivors.
 
 #### Current Ambitions
 **Primary:** Become powerful enough to eventually challenge for Upper Rank.
