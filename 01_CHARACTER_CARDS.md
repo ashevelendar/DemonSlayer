@@ -1,96 +1,51 @@
 # CHARACTER CARDS
 
-This file stores persistent cards for the player character and important NPCs.
-
-Characters retain memories of meaningful interactions and pursue their own goals independently.
-
----
-
 ## PLAYER CHARACTER
 
 ### Ashe
+- Age: 20
+- Species: Demon
+- Origin: Remote mountain village, Kii Province
+- Former occupation: Village inn singer
+- Personality: Cunning, charming, kind
+- Current location: Ashe's Family House
+- Goal: Eat, evolve, grow stronger, eventually challenge for an Upper Rank position.
 
-#### Identity
-- **Name:** Ashe
-- **Age:** 20
-- **Gender:** Female
-- **Race / Species / Origin:** Demon; born human in a remote mountain village in Kii Province
-- **Background:** Village inn singer. A mysterious traveler arrived, a massacre followed, and he offered Ashe the choice to become a demon. She accepted.
-- **Current Location:** Ashe's Family House, Mountain Village, Kii
-- **Former Occupation:** Singer at the village inn
-- **Current Role:** Newly transformed demon
+### Statistics
+- Strength: 9/20
+- Dexterity: 17/20
+- Constitution: 9/20
+- Intelligence: 12/20
+- Charisma: 18/20
+- Resonance: 17/20
 
-#### Personality
-Cunning, charming, kind.
+### Abilities
+- Singing & Vocal Performance: high proficiency.
+- Demonic Physiology: developing.
+- Resonance: developing supernatural vocal influence.
+- Memory Song: established experimental Resonance technique.
+- Blood Demon Art: not yet established.
 
-Ashe is socially confident because performing for travelers was part of her daily life. Her strongest human talent was her voice and her ability to hold people's attention.
+### Relationships
+- Muzan Kibutsuji: creator/master.
+- Hana: First Circle, Voice, Inn Steward.
+- Mika: First Circle, Devoted, Performance Coordinator.
+- Daichi: First Circle, Devoted, Local Liaison.
+- The Listener: secret Songbound intelligence asset.
 
-#### Personal Goal
-Eat. Evolve. Grow stronger. Eventually become powerful enough to challenge for an Upper Rank position.
-
-#### Statistics
-- **Strength:** 9/20
-- **Charisma:** 18/20
-- **Constitution:** 9/20
-- **Intelligence:** 12/20
-- **Dexterity:** 17/20
-- **Unique Stat - Resonance:** 15/20
-
-#### Skills & Training
-- Experienced singer and performer.
-- Comfortable reading an audience.
-- Minimal physical combat training.
-- Minimal knowledge of the wider world.
-- Minimal experience with demonic abilities.
-
-#### Techniques / Abilities
-- No established Blood Demon Art.
-- Demonic physiology is newly present and has now been partially tested: heightened senses, increased speed and agility, improved strength, rapid healing from minor/deeper cuts, severe hunger, and feeding-related physical improvement.
-- **Resonance:** emerging supernatural vocal influence. Ashe's singing has been observed to calm frightened listeners and make surrender feel emotionally acceptable. Limits unknown and not yet classified as a Blood Demon Art.
-
-#### Inventory
-Not yet established.
-
-#### Injuries
-None established.
-
-#### Relationships
-- **Muzan Kibutsuji:** Creator/master relationship established. Ashe has limited understanding of him and his hierarchy.
-- No other persistent relationships established yet.
-
-#### Reputation
-Unknown.
-
-#### History
-- Born and raised in an isolated mountain village in Kii.
-- Worked as a singer at the village inn.
-- A mysterious traveler arrived and disaster followed.
-- Ashe accepted his offer to become a demon.
-- Newly transformed in 1862.
-- During her first night as a demon, Ashe fed three times after encountering wounded survivors.
-- Her singing manifested an unusual influence over frightened survivors.
-
-#### Current Ambitions
-**Primary:** Become powerful enough to eventually challenge for Upper Rank.
-
-**Secondary:** Understand demon existence, develop supernatural abilities, learn survival, and understand Muzan's hierarchy.
-
----
+### History
+Ashe was transformed in 1862, fed three times during her first night, returned to her family home, developed Resonance, built the Songbound hierarchy, established weekly village gatherings, appointed a secret Listener, established a recurring traveller-feeding arrangement, developed Memory Song, and began investigating Blood Demon Art development.
 
 ## IMPORTANT NPC CARDS
 
-No persistent NPCs established yet.
+### Hana
+First Circle, Voice, Inn Steward. Reliable, attentive, strongly attached to Ashe. Personalized song: Comfort.
 
-### NPC Principles
-Important NPCs should:
-- Have personal motivations.
-- Remember Ashe's actions.
-- Develop opinions over time.
-- Form loyalties and rivalries.
-- Request help when it serves their own interests.
-- Refuse requests when appropriate.
-- Make decisions without requiring Ashe's involvement.
-- Betray, leave, cooperate, or oppose Ashe when circumstances justify it.
-- Grow and change through events.
+### Mika
+First Circle, Devoted, Performance Coordinator. Social and enthusiastic. Personalized song: Belonging.
 
-No NPC exists solely to deliver quests or assist Ashe.
+### Daichi
+First Circle, Devoted, Local Liaison. Quiet, practical, observant. Personalized song: Certainty.
+
+### The Listener
+Publicly an ordinary/Companion-level Songbound member. Secretly reports village conversations, reactions, rumours, and suspicion to Ashe. Does not interfere or reveal the assignment without instruction.
