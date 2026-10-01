@@ -4,17 +4,13 @@
 **Demon Slayer Sandbox**
 
 ## Status
-- Campaign begun.
-- Player character: Ashe, a freshly transformed demon.
-- Era: roughly 50 years before the main Demon Slayer canon, beginning in 1862.
-- Canon history is independent of Ashe unless her actions create consequences that alter it.
-- World danger: Moderate to high depending on circumstance.
-- Failure/death: Meaningful and potentially immediate against overwhelming opponents.
-- Tone: Properly dark, but focused more on demon survival, growth, exploration, and adventure than horror.
-- Realism: Balanced.
-
-## Setting
-The campaign uses the established Demon Slayer world, including its demon prevalence and supernatural foundations. Ashe begins in an isolated mountain village in Kii Province on the Kii Peninsula. She knows demons through village folklore and songs, and through what Muzan told her during her transformation.
+- Campaign active.
+- Player character: Ashe, a young demon.
+- Era: 1862, roughly 50 years before the main Demon Slayer canon.
+- Canon history remains independent of Ashe unless her actions create consequences that alter it.
+- Tone: dark, focused on demon survival, growth, exploration, adventure, and emergent consequences.
+- Realism: balanced.
+- World danger: moderate to high depending on circumstance.
 
 ## Player Character
 **Ashe**
@@ -22,7 +18,7 @@ The campaign uses the established Demon Slayer world, including its demon preval
 - Gender: Female
 - Species: Demon
 - Former role: Village inn singer
-- Origin: Small remote mountain village in Kii Province
+- Origin: Remote mountain village in Kii Province
 - Personality: Cunning, charming, kind
 - Goal: Eat, evolve, grow stronger, and eventually challenge for an Upper Rank position.
 
@@ -32,77 +28,53 @@ The campaign uses the established Demon Slayer world, including its demon preval
 - Constitution: 9/20
 - Intelligence: 12/20
 - Charisma: 18/20
-- Resonance: 15/20
-
-**Resonance** represents Ashe's unusual potential to combine her exceptional singing voice with demonic power. It is now showing an observed supernatural effect, but it is not an established Blood Demon Art.
-
-## Current Condition
-- Newly transformed
-- Hunger currently satisfied after three feedings
-- No established Blood Demon Art
-- Very little combat experience
-- No established Demon Slayer knowledge beyond folklore and Muzan's explanation
-- No established faction affiliation
-- No established companions
-- No physical injuries
-- Returning to her former family home to shelter from sunlight
+- Resonance: 17/20
 
 ## Current Location
 **Ashe's Family House, Mountain Village, Kii**
-Ashe's former home in the village. It has a basement that should provide protection from sunlight.
+The former family home contains a basement used as Ashe's private daytime shelter and feeding room.
 
-## Recent Events
-- Ashe tested her new senses, speed, strength, and regeneration during her first night.
-- Ashe encountered a wounded male survivor and killed him while maintaining an injured-survivor disguise.
-- Ashe used singing to calm frightened survivors and discovered an unusual influence through her voice.
-- Ashe drew a young male survivor to her through the song and fed on him.
-- Ashe then fed on an elderly female survivor after rapidly closing the distance.
-- Feeding noticeably reduced hunger and produced a subtle increase in physical capability.
-- The exact limits and nature of Resonance remain unknown.
+## Village Situation
+- Population: roughly 90.
+- Regular weekly gathering attendance: roughly 85-90.
+- Songbound: 29.
+- First Circle: Hana, Mika, Daichi.
+- Secret Listener: one Songbound member known only to Ashe.
+- Public suspicion: low.
+- Ashe's influence is substantial but not absolute.
 
-## Persistent World Tracking
-Maintain:
-- Current date and time
-- Current location
-- Known locations
-- Inventory
-- Money/resources
-- Hunger and demon feeding
-- Injuries and recovery
-- Skills and techniques
-- Demon abilities and Blood Demon Art development
-- Relationships
-- Reputation
-- Faction standings
-- Known rumours
-- Primary and secondary goals
-- Long-term developments
-- World events
-- Travel time
-- Bases/properties
-- Companions and allies
-- Discoveries
-- Important NPCs
-- Historical events
+## Songbound
+The hierarchy is Ordinary, Companion, Devoted, Voice, and Inner Voice.
 
-## World Independence
-The world does not wait for Ashe:
-- Demons may move, feed, hide, rise, fall, or be killed.
-- Demon Slayers may receive assignments and suffer casualties.
-- Villages may prosper, decline, relocate, or be destroyed.
-- Merchants, criminals, officials, families, and civilians pursue their own interests.
-- Factions may cooperate, compete, fracture, recruit, or disappear.
-- Canon events will proceed independently until Ashe's actions materially affect them.
+Hana is the Voice and Inn Steward. Mika is Devoted and Performance Coordinator. Daichi is Devoted and Local Liaison.
 
-## Current Goals
-**PRIMARY GOAL:** Become powerful enough to eventually challenge for Upper Rank.
+The Listener quietly observes villagers, reports privately to Ashe, and does not interfere or reveal her assignment.
 
-**SECONDARY GOALS:**
-- Learn what being a demon actually means.
+## Weekly Gathering
+Every week the whole village is encouraged to attend, from the youngest to the oldest. Ashe's songs emphasize home, belonging, memory, happiness, and shared community.
+
+## Feeding Arrangement
+After weekly performances, the First Circle may bring a suitable traveller to Ashe's basement room when circumstances allow. They leave immediately and do not interfere. Ashe feeds privately.
+
+## Resonance
+Resonance is now 17/20 and includes Trust, Calling, Devotion, Service, Longing, Privilege, Worship, First Song, and Memory Song techniques.
+
+Observed effects include calming, attention capture, emotional warmth, attachment, longing, increased willingness to approach, service motivation, and memory weighting.
+
+Resonance can influence groups but individual effects are more precise. It does not currently guarantee obedience or erase factual memories.
+
+### Blood Demon Art Investigation
+Ashe is now actively attempting to develop Resonance into a proper Blood Demon Art. Whether this is possible remains unknown.
+
+## Goals
+**PRIMARY:** Become powerful enough to eventually challenge for Upper Rank.
+
+**SECONDARY:**
 - Develop supernatural abilities.
 - Learn how to survive as a demon.
 - Understand Muzan and his hierarchy.
+- Establish and expand the Songbound network.
+- Determine whether Resonance can mature into a Blood Demon Art.
 
 ## Historical Record
-### 1862
-Ashe is transformed into a demon after a massacre at her mountain village inn. During her first night she feeds three times, discovers an emerging supernatural effect in her singing, and returns toward her family home seeking daytime shelter.
+In 1862 Ashe was transformed into a demon, fed three times during her first night, returned to her family home, established the Songbound network, created weekly village-wide gatherings, appointed a secret Listener, established a recurring traveller-feeding arrangement, developed the Memory Song, and began investigating Blood Demon Art development.
