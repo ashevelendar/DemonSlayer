@@ -26,10 +26,21 @@ Ashe survived the transformation and awoke as a newly born demon.
 
 She learned basic facts about demons from the one who transformed her, including their hunger, sunlight weakness, Demon Slayers, and the existence of a hierarchy containing Upper Ranks.
 
-She is currently in or near her home village on her first night as a demon.
+### First Night - The Village
+Ashe tested her heightened senses, speed, strength, and regeneration.
 
-### Current Developments
-Ashe has chosen to investigate her new body before deciding what to do next.
+She encountered an injured male survivor and maintained the appearance of a wounded human before feeding on him.
+
+She then encountered an elderly female survivor and a second young male survivor. Through singing, Ashe discovered that her voice could calm frightened listeners and appeared capable of making surrender feel emotionally acceptable.
+
+The young man approached Ashe willingly under the influence of the song, and she fed on him.
+
+When the elderly survivor later recognized what Ashe was, Ashe rapidly closed the distance and fed on her as well.
+
+By the end of the sequence, Ashe had fed three times and felt noticeably stronger and more physically capable, though she remains a very young and inexperienced demon.
+
+### Current Movement
+Ashe is returning to her former family home within the village. The house contains a basement that should provide protection from sunlight. She intends to reach it before dawn.
 
 ---
 
