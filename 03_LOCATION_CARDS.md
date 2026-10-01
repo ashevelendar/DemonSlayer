@@ -6,87 +6,49 @@ Locations should contain practical information and evolve as events occur.
 
 ---
 
-## STARTING LOCATION
-
-**Not yet established.**
-
-### Overview
-The player's starting location will be determined during character and world creation.
-
-### Environment
-Not established.
-
-### Population
-Not established.
-
-### Important Sites
-None established.
-
-### Local Economy
-Not established.
-
-### Authority / Faction
-Not established.
-
-### Known Dangers
-Not established.
-
-### Travel Connections
-Not established.
-
-### Local Rumours
-None established.
-
-### History
-Not established.
-
----
-
-## LOCATION CARD TEMPLATE
-
-# [LOCATION NAME]
+# MOUNTAIN VILLAGE, KII
 
 ## Overview
-Brief description and significance.
+A small, isolated mountain settlement in Kii Province on the Kii Peninsula. It is Ashe's birthplace and the place where she spent her human life.
 
 ## Environment
-Terrain, climate, architecture, visibility, natural hazards, and notable features.
+Steep forested mountains, narrow paths, heavy woodland cover, cold nights, and limited routes to the outside world. The settlement is remote enough that travelers are unusual.
 
 ## Population
-Who lives here, approximate scale, and relevant communities.
+Small rural population. Exact surviving population after the recent massacre is not yet established.
 
 ## Authority / Factions
-Who controls, influences, or contests the location.
+Local village elders and household heads. No established Demon Slayer presence is known.
 
 ## Economy
-Trade, work, resources, shortages, prices, or important businesses.
+Subsistence agriculture, hunting, small-scale local trade, and occasional business from travelers using the inn.
 
 ## Important Sites
-- Site
-- Site
-- Site
+- Village inn, recently devastated.
+- Surrounding mountain forest.
+- Mountain paths connecting the settlement to the wider Kii region.
 
 ## Known Dangers
-Known threats, criminal activity, demons, beasts, political tensions, or environmental hazards.
+- Isolation.
+- Wild animals.
+- Harsh mountain conditions.
+- Recent demon attack/massacre.
+- Ashe herself, if she loses control of her hunger.
 
 ## Notable People
-People currently associated with the location.
+No persistent surviving NPCs established yet.
 
 ## Rumours
-Information currently circulating locally. Rumours should retain uncertainty until confirmed.
+None established.
 
 ## History
-Important events that have occurred here.
+Ashe was born here and worked at the village inn as a singer. A mysterious traveler arrived, a massacre followed, and Ashe accepted his offer to become a demon.
 
 ## Current Situation
-What is happening here now.
+The inn is devastated and many villagers are dead. Ashe has survived the transformation and remains nearby on the first night of her new existence.
 
 ## Connections
-Nearby settlements, routes, roads, forests, mountains, rivers, and other destinations.
+Mountain paths lead toward other rural settlements and eventually the larger roads of Kii Province. Exact destinations and travel times will be established when Ashe explores them.
 
 ## Player Relationship
-How the player currently relates to the location.
-
----
-
-Locations should not be treated as static scenery. Population, leadership, danger, prosperity, rumours, and relationships may change without player involvement.
+Ashe's birthplace and current location. She knows the village intimately from her human life, but her new nature makes returning to ordinary village life dangerous.
