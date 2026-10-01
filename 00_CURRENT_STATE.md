@@ -4,48 +4,68 @@
 **Demon Slayer Sandbox**
 
 ## Status
-- Campaign not yet begun.
-- No player character exists yet.
-- No location, faction standing, inventory, money, injuries, relationships, reputation, skills, property, companions, goals, discoveries, or world events have been established.
-- The world should remain neutral and independent of the player until character creation is complete.
+- Campaign begun.
+- Player character: Ashe, a freshly transformed demon.
+- Era: roughly 50 years before the main Demon Slayer canon, beginning in 1862.
+- Canon history is independent of Ashe unless her actions create consequences that alter it.
+- World danger: Moderate to high depending on circumstance.
+- Failure/death: Meaningful and potentially immediate against overwhelming opponents.
+- Tone: Properly dark, but focused more on demon survival, growth, exploration, and adventure than horror.
+- Realism: Balanced.
 
 ## Setting
-The campaign is designed for a **Demon Slayer-inspired** world. The exact historical period, canon relationship, supernatural rules, availability of breathing styles, demon prevalence, role of the Demon Slayer Corps, and degree of canon integration are established through character/world creation rather than assumed in advance.
+The campaign uses the established Demon Slayer world, including its demon prevalence and supernatural foundations. Ashe begins in an isolated mountain village in Kii Province on the Kii Peninsula. She knows demons through village folklore and songs, and through what Muzan told her during her transformation.
 
 ## Player Character
-**Not yet created.**
+**Ashe**
+- Age: 20
+- Gender: Female
+- Species: Demon
+- Former role: Village inn singer
+- Origin: Small remote mountain village in Kii Province
+- Personality: Cunning, charming, kind
+- Goal: Eat, evolve, grow stronger, and eventually challenge for an Upper Rank position.
 
-The character will be created through:
-- Name
-- Age
-- Race/species/origin
-- Background and backstory
-- Starting personal goal
-- Strength
-- Charisma
-- Constitution
-- Intelligence
-- Dexterity
-- One unique stat derived from the character's background
+### Statistics
+- Strength: 9/20
+- Dexterity: 17/20
+- Constitution: 9/20
+- Intelligence: 12/20
+- Charisma: 18/20
+- Resonance: 15/20
 
-The unique stat may evolve or change as the character's experiences justify it.
+**Resonance** represents Ashe's unusual potential to combine her exceptional singing voice with demonic power. It is potential, not an established Blood Demon Art.
+
+## Current Condition
+- Newly transformed
+- Severe hunger
+- No established Blood Demon Art
+- Very little combat experience
+- No established Demon Slayer knowledge beyond folklore and Muzan's explanation
+- No established faction affiliation
+- No established companions
+- No established injuries
+
+## Current Location
+**Mountain Village, Kii**
+A small, isolated mountain settlement in the forested Kii mountains. The village inn has been devastated by the recent massacre.
 
 ## Persistent World Tracking
-Once play begins, maintain:
+Maintain:
 - Current date and time
 - Current location
 - Known locations
 - Inventory
 - Money/resources
+- Hunger and demon feeding
 - Injuries and recovery
-- Skills and techniques learned
+- Skills and techniques
+- Demon abilities and Blood Demon Art development
 - Relationships
 - Reputation
 - Faction standings
 - Known rumours
-- Primary goal
-- Secondary goals
-- Completed goals
+- Primary and secondary goals
 - Long-term developments
 - World events
 - Travel time
@@ -56,36 +76,23 @@ Once play begins, maintain:
 - Historical events
 
 ## World Independence
-The world does not wait for the player:
-- Demons may move, feed, hide, or be killed.
+The world does not wait for Ashe:
+- Demons may move, feed, hide, rise, fall, or be killed.
 - Demon Slayers may receive assignments and suffer casualties.
 - Villages may prosper, decline, relocate, or be destroyed.
-- Merchants, criminals, officials, families, and other civilians pursue their own interests.
+- Merchants, criminals, officials, families, and civilians pursue their own interests.
 - Factions may cooperate, compete, fracture, recruit, or disappear.
-- Rumours may be true, false, incomplete, or deliberately misleading.
-- The player may ignore any event without the world stopping for them.
-
-## Player Agency
-The player may:
-- Pursue their current goal.
-- Abandon it.
-- Create a new goal.
-- Pursue several goals.
-- Refuse opportunities.
-- Travel elsewhere.
-- Avoid combat.
-- Negotiate.
-- Work for themselves.
-- Join or oppose factions.
-- Live an ordinary life.
-- Become involved in major events only through their own choices and consequences.
+- Canon events will proceed independently until Ashe's actions materially affect them.
 
 ## Current Goals
-**PRIMARY GOAL:** Not established.
+**PRIMARY GOAL:** Become powerful enough to eventually challenge for Upper Rank.
 
-**SECONDARY GOALS:** None established.
+**SECONDARY GOALS:**
+- Learn what being a demon actually means.
+- Develop supernatural abilities.
+- Learn how to survive as a demon.
+- Understand Muzan and his hierarchy.
 
 ## Historical Record
-No campaign events have occurred yet.
-
-This document should be updated as persistent facts become established during play. Facts should not be added merely because they would make the story more dramatic.
+### 1862
+Ashe is transformed into a demon after a massacre at her mountain village inn.
