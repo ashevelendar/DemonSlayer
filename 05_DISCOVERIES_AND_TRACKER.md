@@ -5,8 +5,8 @@
 [░░░░░░░░░░] 0%
 
 ## SECONDARY GOALS
-[████░░░░░░] 40% - Develop supernatural abilities
-[████░░░░░░] 40% - Establish and expand the Songbound
+[████████░░] 80% - Develop supernatural abilities
+[███████░░░] 70% - Establish and expand the Songbound
 [███░░░░░░░] 30% - Learn what being a demon actually means
 [███░░░░░░░] 30% - Learn how to survive as a demon
 [█░░░░░░░░░] 10% - Understand Muzan and his hierarchy
@@ -20,8 +20,23 @@ Ashe's birthplace and family house are separate locations. Ashe is no longer bas
 ### Songbound
 A 29-member social faction centred on Ashe's singing and the weekly village gathering.
 
-First Circle: Hana, Mika, Daichi.  
+First Circle / Primary Anchors:
+- Hana - Hearth
+- Mika - Voice
+- Daichi - Watch
+
+The remaining Songbound are permanent secondary Anchors and bridges into the wider village network.
+
 Secret Listener: one member reporting privately to Ashe.
+
+## RESONANCE NETWORK
+### Mizunashi Village
+**Status:** Fully anchored.
+
+The entire village is now permanently connected to Ashe's developing Blood Demon Art. The network is hierarchical:
+Ashe -> Hana/Mika/Daichi -> Songbound -> village clusters.
+
+Connection strength varies. Ashe can sense broad emotional disturbances but cannot consciously process every individual simultaneously.
 
 ## KNOWN DISCOVERIES
 - Ashe is a demon created by Muzan.
@@ -29,15 +44,23 @@ Secret Listener: one member reporting privately to Ashe.
 - Resonance is a supernatural vocal influence.
 - Resonance works on individuals and can shape the emotional atmosphere of groups.
 - Trust, Calling, Devotion, Service, Longing, Privilege, Worship, First Song, and Memory Song have been developed.
-- Memory Song changes the emotional weight of memories without currently erasing factual content.
+- Blood can carry Resonance after leaving Ashe's body.
+- Ingested blood can act as an internal Resonance anchor.
+- Permanent Anchors can be established.
+- Permanent Anchors can form a hierarchical Resonant Communion network.
+- Simple intentions can be transmitted through established Anchors.
+- The entire Mizunashi population is now connected to the network.
+- Memory Severance can remove access to a bounded memory.
+- False Echo can reconstruct a bounded memory into a different coherent recollection.
+- False Echo has not yet been tested as a full village-wide hierarchical transmission.
 - Weekly village performances reinforce Ashe-associated emotional memories.
 - Mizunashi Village is a separate settlement from Ashe's birthplace.
 
 ## ACTIVE INVESTIGATIONS
 ### Blood Demon Art Development
-**Status:** Active.
-**Objective:** Develop Resonance into a proper Blood Demon Art.
-**Unknowns:** Trigger, form, cost, limits, consequences, and whether the transformation is even possible.
+**Status:** Active / Developing.
+**Objective:** Determine the full nature, range, cost, limits, and consequences of Resonant Communion and advanced Memory Song.
+**Current branches:** Blood Resonance; Permanent Anchors; Hierarchical Resonant Communion; Intent Transmission; Memory Severance; False Echo.
 
 ### Ashe's New Body
 **Status:** Active.
@@ -48,10 +71,13 @@ Secret Listener: one member reporting privately to Ashe.
 [███████░░░] 70%
 
 ### Village Emotional Influence
-[███████░░░] 70%
+[█████████░] 90%
 
 ### Songbound Network
-[████░░░░░░] 40%
+[██████████] 100%
+
+### Mizunashi Resonance Network
+[██████████] 100% - Entire village connected; network strength and capabilities continue developing.
 
 ## PROGRESSION LOG
 - Character created.
@@ -67,3 +93,9 @@ Secret Listener: one member reporting privately to Ashe.
 - Recurring traveller-feeding arrangement established.
 - Memory Song developed.
 - Blood Demon Art investigation begun.
+- Blood Resonance established as a developing Blood Demon Art branch.
+- Permanent Anchors established throughout the Songbound.
+- Hana, Mika, and Daichi formalized as the primary Anchor tier.
+- Blood exposure through ale, baked goods, and well water expanded the network.
+- The entire Mizunashi Village became permanently connected.
+- False Echo was demonstrated as an advanced Memory Song technique.
