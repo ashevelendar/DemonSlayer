@@ -2,60 +2,72 @@
 
 This file records established skills, techniques, supernatural abilities, styles, equipment techniques, and other repeatable capabilities.
 
-Abilities should be learned, developed, tested, improved, replaced, restricted, or forgotten through play. Do not assume an ability is mastered simply because the character attempts to learn it.
+Abilities are learned, developed, tested, improved, replaced, restricted, or forgotten through play. Attempts do not automatically create mastery.
 
 ---
 
 ## PLAYER ABILITIES
 
-No abilities established yet.
+### Singing & Vocal Performance
+
+**Type:** Human skill / performance
+
+**Status:** Established
+
+**Description:** Ashe is an experienced singer who spent years entertaining travelers at the village inn.
+
+**Current Proficiency:** High. This was Ashe's occupation and strongest human talent.
+
+**Strengths:** Reading audiences, emotional delivery, maintaining attention, charm.
+
+**Weaknesses:** Does not automatically create supernatural effects.
+
+**Secrecy:** Public.
 
 ---
 
-## ABILITY CARD TEMPLATE
+### Demonic Physiology
 
-# [ABILITY NAME]
+**Type:** Demon ability
 
-## Type
-Breathing Style / Sword Technique / Physical Skill / Demon Art / Medical Skill / Weapon Technique / Other
+**Status:** Newly acquired / untested
 
-## Status
-Unlearned / Learning / Established / Refined / Mastered / Injured or Restricted
+**Description:** Ashe's body has been transformed into that of a demon. The practical extent of her strength, speed, senses, regeneration, hunger, and weaknesses has not yet been fully established.
 
-## Description
-What the ability does.
+**Requirements:** Inherent to her transformation.
 
-## Requirements
-Training, physical condition, knowledge, equipment, bloodline, teacher, or other requirements.
+**Current Proficiency:** Unknown.
 
-## Current Proficiency
-Describe the character's present reliability and limitations.
+**Strengths:** Supernatural potential compared with her former human body.
 
-## Strengths
-What the ability is particularly good at.
+**Weaknesses:** Severe hunger, sunlight vulnerability, inexperience, and unknown limitations.
 
-## Weaknesses
-Known limitations, costs, counters, environmental problems, or risks.
+**Training History:** No deliberate testing recorded yet.
 
-## Known Variants
-Any documented variations or adaptations.
+**Secrecy:** Known to Ashe.
 
-## Training History
-Record meaningful attempts, teachers, discoveries, failures, and breakthroughs.
+---
 
-## Witnesses
-Who knows the character possesses or can use the ability.
+### Resonance
 
-## Secrecy
-Public / Known to specific people / Secret.
+**Type:** Demon-specific potential
 
-## Future Development
-Potential developments should be possibilities, not guarantees.
+**Status:** Potential only
+
+**Description:** Ashe possesses unusual potential to combine her exceptional singing voice with demonic power.
+
+**Current Proficiency:** Undeveloped.
+
+**Strengths:** Strong foundation in vocal performance and an unusually high Resonance attribute.
+
+**Weaknesses:** No known supernatural application yet.
+
+**Future Development:** May eventually contribute to a Blood Demon Art or another supernatural expression, but no outcome is guaranteed.
 
 ---
 
 ## DEMON-SPECIFIC ABILITIES
 
-Demon abilities, Blood Demon Arts, regeneration, unusual physiology, weaknesses, and other supernatural traits should be recorded separately when discovered.
+No Blood Demon Art established.
 
-Unknown abilities remain unknown until evidence establishes them. Do not reveal hidden capabilities simply because doing so would make an encounter more dramatic.
+Unknown abilities remain unknown until Ashe tests or encounters evidence of them.
