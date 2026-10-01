@@ -5,10 +5,10 @@
 ### Ashe
 - Age: 20
 - Species: Demon
-- Origin: Remote mountain village, Kii Province
+- Origin: Remote mountain village in Kii Province
+- Current location: Mizunashi Village
 - Former occupation: Village inn singer
 - Personality: Cunning, charming, kind
-- Current location: Ashe's Family House
 - Goal: Eat, evolve, grow stronger, eventually challenge for an Upper Rank position.
 
 ### Statistics
@@ -34,18 +34,18 @@
 - The Listener: secret Songbound intelligence asset.
 
 ### History
-Ashe was transformed in 1862, fed three times during her first night, returned to her family home, developed Resonance, built the Songbound hierarchy, established weekly village gatherings, appointed a secret Listener, established a recurring traveller-feeding arrangement, developed Memory Song, and began investigating Blood Demon Art development.
+Ashe was transformed in 1862, fed three times during her first night, returned to her family home for shelter, then left her birthplace and established herself in Mizunashi Village. She developed Resonance, built the Songbound hierarchy, established weekly village gatherings, appointed a secret Listener, established a recurring traveller-feeding arrangement, developed Memory Song, and began investigating Blood Demon Art development.
 
 ## IMPORTANT NPC CARDS
 
 ### Hana
-First Circle, Voice, Inn Steward. Reliable, attentive, strongly attached to Ashe. Personalized song: Comfort.
+First Circle, Voice, Inn Steward. Reliable, attentive, strongly attached to Ashe. Coordinates practical Songbound activity.
 
 ### Mika
-First Circle, Devoted, Performance Coordinator. Social and enthusiastic. Personalized song: Belonging.
+First Circle, Devoted, Performance Coordinator. Social and enthusiastic. Coordinates performances and social activity.
 
 ### Daichi
-First Circle, Devoted, Local Liaison. Quiet, practical, observant. Personalized song: Certainty.
+First Circle, Devoted, Local Liaison. Quiet, practical, observant. Handles discreet local arrangements and traveller introductions.
 
 ### The Listener
-Publicly an ordinary/Companion-level Songbound member. Secretly reports village conversations, reactions, rumours, and suspicion to Ashe. Does not interfere or reveal the assignment without instruction.
+Publicly an ordinary/Companion-level Songbound member. Secretly reports village conversations, reactions, rumours, and suspicion to Ashe. Does not reveal the assignment.
