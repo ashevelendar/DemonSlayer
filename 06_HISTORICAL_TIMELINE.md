@@ -1,62 +1,46 @@
 # HISTORICAL TIMELINE
 
-This is the campaign's chronological historical record.
-
-Events preserve consequences, discoveries, deaths, alliances, betrayals, journeys, training, political changes, and other events that materially affect the world or Ashe's history.
-
----
-
 ## BEFORE THE CAMPAIGN
+Ashe was born in a remote mountain village in Kii Province and worked as a singer at the local inn.
 
-### Ashe's Human Life
-Ashe was born in a small remote mountain village in Kii Province. She grew up with little knowledge of the wider world and became a singer at the local inn.
-
-### The Traveler
-A mysterious traveler arrived at the village inn. After a disastrous night in which many people died, he offered Ashe the choice to become a demon.
-
-### Transformation
-Ashe accepted.
-
----
+A mysterious traveller arrived. A massacre followed. The traveller offered Ashe the choice to become a demon, and she accepted.
 
 ## 1862
 
-### Beginning - Birth of a Demon
-Ashe survived the transformation and awoke as a newly born demon.
+### First Night - Birthplace
+Ashe awoke as a demon, learned basic facts about demons, tested her new body, and fed three times in her birthplace.
 
-She learned basic facts about demons from the one who transformed her, including their hunger, sunlight weakness, Demon Slayers, and the existence of a hierarchy containing Upper Ranks.
+Her singing produced the first observed supernatural effects later called Resonance.
 
-### First Night - The Village
-Ashe tested her heightened senses, speed, strength, and regeneration.
+### Family House
+Ashe returned to her former family home before sunrise and used its basement as temporary daytime shelter.
 
-She encountered an injured male survivor and maintained the appearance of a wounded human before feeding on him.
+### Departure
+Ashe later left her birthplace. Her family house remains a separate location and fallback shelter. She is currently based in Mizunashi Village.
 
-She then encountered an elderly female survivor and a second young male survivor. Through singing, Ashe discovered that her voice could calm frightened listeners and appeared capable of making surrender feel emotionally acceptable.
+### Mizunashi Village
+Ashe established herself as a travelling singer and gradually became central to village social life.
 
-The young man approached Ashe willingly under the influence of the song, and she fed on him.
+### Songbound Faction
+The growing circle around Ashe became a formal social faction of 29 members with ranks, responsibilities, privileges, and a First Circle.
 
-When the elderly survivor later recognized what Ashe was, Ashe rapidly closed the distance and fed on her as well.
+### First Circle
+Hana became Inn Steward and Voice. Mika became Performance Coordinator. Daichi became Local Liaison.
 
-By the end of the sequence, Ashe had fed three times and felt noticeably stronger and more physically capable, though she remains a very young and inexperienced demon.
+### Weekly Village Performance
+A recurring weekly gathering was established at the village inn. Nearly the whole village attends, from children to elders.
 
-### Current Movement
-Ashe is returning to her former family home within the village. The house contains a basement that should provide protection from sunlight. She intends to reach it before dawn.
+### The Listener
+Ashe secretly appointed one Songbound member to listen among villagers, observe reactions and rumours, and report privately.
 
----
+### Traveller Feeding Arrangement
+After weekly performances, the First Circle began bringing a suitable traveller to Ashe's private basement room when circumstances allow. They leave without disturbing her.
 
-## LATER HISTORY
+### Memory Song
+Ashe developed Memory Song, which changes the emotional importance of memories without currently erasing factual content.
 
-Future events will be recorded chronologically as they occur.
+### Blood Demon Art Investigation
+Ashe began actively attempting to develop Resonance into a true Blood Demon Art. The result remains unknown.
 
----
-
-## TIMELINE RULES
-
-- Keep dates and sequence internally consistent.
-- Record travel time where relevant.
-- Preserve the distinction between known history and rumours.
-- Record important consequences, not every trivial conversation.
-- Do not rewrite established events simply because a later development would be more convenient.
-- Canon or historical events, where used, should occur according to the campaign's established setting.
-- Canon events do not automatically centre on Ashe.
-- The world may undergo major changes while Ashe is absent.
+## CURRENT ERA
+1862. Exact date and time remain intentionally unassigned beyond the established sequence of events.
