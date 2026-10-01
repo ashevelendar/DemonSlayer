@@ -27,6 +27,11 @@ The growing circle around Ashe became a formal social faction of 29 members with
 ### First Circle
 Hana became Inn Steward and Voice. Mika became Performance Coordinator. Daichi became Local Liaison.
 
+They later became the three primary Anchors beneath Ashe:
+- Hana: Hearth
+- Mika: Voice
+- Daichi: Watch
+
 ### Weekly Village Performance
 A recurring weekly gathering was established at the village inn. Nearly the whole village attends, from children to elders.
 
@@ -37,10 +42,27 @@ Ashe secretly appointed one Songbound member to listen among villagers, observe 
 After weekly performances, the First Circle began bringing a suitable traveller to Ashe's private basement room when circumstances allow. They leave without disturbing her.
 
 ### Memory Song
-Ashe developed Memory Song, which changes the emotional importance of memories without currently erasing factual content.
+Ashe developed Memory Song, initially changing the emotional importance of memories.
 
 ### Blood Demon Art Investigation
-Ashe began actively attempting to develop Resonance into a true Blood Demon Art. The result remains unknown.
+Ashe began actively attempting to develop Resonance into a true Blood Demon Art.
 
-## CURRENT ERA
+### Blood Resonance
+Ashe discovered that her blood could temporarily retain Resonance and later act as an anchor when ingested.
+
+### Resonant Communion
+Repeated blood exposure allowed multiple people to form a persistent Resonance network. The 29 Songbound became permanent Anchors.
+
+### Resonance Hierarchy
+Hana, Mika, and Daichi were formalized as primary Anchors, allowing Ashe to manage the wider network through a hierarchy.
+
+### Mizunashi Fully Anchored
+Through repeated exposure in common ale, baked goods, well water, and continued performances, the entire village became permanently connected to Ashe's Resonance network.
+
+The network remains hierarchical and varies in strength. Ashe can sense broad emotional disturbances but cannot consciously process every individual simultaneously.
+
+### False Echo
+Ashe advanced Memory Song beyond simple emotional weighting and memory severance. A bounded memory can now be reconstructed into a different coherent recollection rather than leaving an obvious blank.
+
+### CURRENT ERA
 1862. Exact date and time remain intentionally unassigned beyond the established sequence of events.
