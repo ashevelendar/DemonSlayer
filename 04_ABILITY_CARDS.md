@@ -30,9 +30,9 @@ Abilities are learned, developed, tested, improved, replaced, restricted, or for
 
 **Type:** Demon ability
 
-**Status:** Newly acquired / untested
+**Status:** Newly acquired / partially tested
 
-**Description:** Ashe's body has been transformed into that of a demon. The practical extent of her strength, speed, senses, regeneration, hunger, and weaknesses has not yet been fully established.
+**Description:** Ashe's body has been transformed into that of a demon. Initial testing has confirmed heightened senses, exceptional agility, increased speed, increased strength compared with her former human body, rapid healing from cuts, severe hunger, and physical improvement after feeding.
 
 **Requirements:** Inherent to her transformation.
 
@@ -40,9 +40,9 @@ Abilities are learned, developed, tested, improved, replaced, restricted, or for
 
 **Strengths:** Supernatural potential compared with her former human body.
 
-**Weaknesses:** Severe hunger, sunlight vulnerability, inexperience, and unknown limitations.
+**Weaknesses:** Severe hunger when unfed, sunlight vulnerability, inexperience, and unknown limitations.
 
-**Training History:** No deliberate testing recorded yet.
+**Training History:** Initial self-testing completed during the first night.
 
 **Secrecy:** Known to Ashe.
 
@@ -50,19 +50,27 @@ Abilities are learned, developed, tested, improved, replaced, restricted, or for
 
 ### Resonance
 
-**Type:** Demon-specific potential
+**Type:** Demon-specific supernatural potential
 
-**Status:** Potential only
+**Status:** Emerging / observed
 
-**Description:** Ashe possesses unusual potential to combine her exceptional singing voice with demonic power.
+**Description:** Ashe's exceptional singing voice has now produced an observable supernatural influence. Singing can calm frightened listeners and appears capable of making surrender feel emotionally acceptable. The exact mechanism and limits remain unknown.
 
-**Current Proficiency:** Undeveloped.
+**Current Proficiency:** Emerging. No formal mastery established.
 
-**Strengths:** Strong foundation in vocal performance and an unusually high Resonance attribute.
+**Strengths:** Emotional calming, attention capture, lowering resistance, and potentially influencing a listener's willingness to approach or surrender.
 
-**Weaknesses:** No known supernatural application yet.
+**Weaknesses:** Observed only in a small number of frightened and exhausted survivors. Exact range, duration, resistance, and limits are unknown.
 
-**Future Development:** May eventually contribute to a Blood Demon Art or another supernatural expression, but no outcome is guaranteed.
+**Variants:** Soothing songs; surrender-themed songs.
+
+**Training History:** First manifested during Ashe's first night as a demon.
+
+**Witnesses:** Three village survivors were exposed to the effect. All are now dead.
+
+**Secrecy:** Highly secret.
+
+**Important Note:** Resonance is not yet established as a Blood Demon Art. Its eventual form is unknown.
 
 ---
 
