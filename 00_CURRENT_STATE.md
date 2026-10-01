@@ -34,21 +34,31 @@ The campaign uses the established Demon Slayer world, including its demon preval
 - Charisma: 18/20
 - Resonance: 15/20
 
-**Resonance** represents Ashe's unusual potential to combine her exceptional singing voice with demonic power. It is potential, not an established Blood Demon Art.
+**Resonance** represents Ashe's unusual potential to combine her exceptional singing voice with demonic power. It is now showing an observed supernatural effect, but it is not an established Blood Demon Art.
 
 ## Current Condition
 - Newly transformed
-- Severe hunger
+- Hunger currently satisfied after three feedings
 - No established Blood Demon Art
 - Very little combat experience
 - No established Demon Slayer knowledge beyond folklore and Muzan's explanation
 - No established faction affiliation
 - No established companions
-- No established injuries
+- No physical injuries
+- Returning to her former family home to shelter from sunlight
 
 ## Current Location
-**Mountain Village, Kii**
-A small, isolated mountain settlement in the forested Kii mountains. The village inn has been devastated by the recent massacre.
+**Ashe's Family House, Mountain Village, Kii**
+Ashe's former home in the village. It has a basement that should provide protection from sunlight.
+
+## Recent Events
+- Ashe tested her new senses, speed, strength, and regeneration during her first night.
+- Ashe encountered a wounded male survivor and killed him while maintaining an injured-survivor disguise.
+- Ashe used singing to calm frightened survivors and discovered an unusual influence through her voice.
+- Ashe drew a young male survivor to her through the song and fed on him.
+- Ashe then fed on an elderly female survivor after rapidly closing the distance.
+- Feeding noticeably reduced hunger and produced a subtle increase in physical capability.
+- The exact limits and nature of Resonance remain unknown.
 
 ## Persistent World Tracking
 Maintain:
@@ -95,4 +105,4 @@ The world does not wait for Ashe:
 
 ## Historical Record
 ### 1862
-Ashe is transformed into a demon after a massacre at her mountain village inn.
+Ashe is transformed into a demon after a massacre at her mountain village inn. During her first night she feeds three times, discovers an emerging supernatural effect in her singing, and returns toward her family home seeking daytime shelter.
