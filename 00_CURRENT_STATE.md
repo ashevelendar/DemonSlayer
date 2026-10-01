@@ -25,18 +25,27 @@ This is a different settlement from Ashe's birthplace. Ashe's birthplace contain
 ## Mizunashi Village
 A remote rural settlement of roughly 90 people with an inn, surrounding forest, mountain paths, and occasional traveller traffic.
 
-Ashe established herself here as a singer. Weekly performances now attract nearly the entire village.
+Ashe established herself here as a singer. Weekly performances became a major village tradition, and the entire village is now permanently connected to Ashe's developing Resonance network.
 
 ## SONGBOUND FACTION
 The Songbound are a persistent social faction of 29 members centred on Ashe's performances.
 
-### First Circle
-- Hana: Voice, Inn Steward
-- Mika: Devoted, Performance Coordinator
-- Daichi: Devoted, Local Liaison
+### First Circle / Primary Anchors
+- Hana: Voice, Inn Steward, **Hearth**
+- Mika: Devoted, Performance Coordinator, **Voice**
+- Daichi: Devoted, Local Liaison, **Watch**
+
+The remaining 26 Songbound are permanent secondary Anchors and bridges into the wider village network.
 
 ### Secret Listener
 One Songbound member secretly listens among villagers and reports rumours, reactions, and suspicion to Ashe.
+
+## RESONANCE NETWORK
+Mizunashi is now fully connected to Ashe's developing Blood Demon Art.
+
+Repeated exposure through common ale, baked goods, well water, and performances has established permanent Resonance connections throughout the village. Connection strength varies, and Ashe cannot consciously process every individual simultaneously, so the First Circle and Songbound hierarchy carry the network.
+
+The network can transmit broad emotional states and simple intentions. Individual minds remain distinct.
 
 ## FEEDING
 After weekly performances, the First Circle may discreetly bring a suitable traveller to Ashe's private basement room when circumstances allow. They leave immediately and do not interfere.
@@ -54,13 +63,19 @@ Established techniques:
 - Worship Song
 - First Song
 - Memory Song
+- Blood Resonance
+- Permanent Anchor
+- Resonant Communion
+- Intent Transmission
+- Memory Severance
+- False Echo
 
-Resonance can calm, attract, emotionally influence, reinforce attachment, encourage service, and alter the emotional importance of memories. It does not currently guarantee obedience or erase factual memories.
+## BLOOD DEMON ART
+**Status:** Developing.
 
-## BLOOD DEMON ART INVESTIGATION
-Ashe is actively attempting to develop Resonance into a true Blood Demon Art.
+Ashe's Resonance has begun behaving as a true Blood Demon Art. Blood can carry Resonance, establish persistent Anchors, form hierarchical networks, and support advanced Memory Song effects.
 
-**Status:** Not yet established.
+**False Echo** can reconstruct a bounded memory into a different coherent recollection rather than leaving an obvious blank. Its reliability through the full village hierarchy remains untested.
 
 ## GOALS
 **PRIMARY:** Become powerful enough to eventually challenge for Upper Rank.
@@ -69,6 +84,7 @@ Ashe is actively attempting to develop Resonance into a true Blood Demon Art.
 - Develop supernatural abilities.
 - Establish and expand the Songbound.
 - Learn how to survive as a demon.
+- Learn what being a demon actually means.
 - Understand Muzan and his hierarchy.
 
 ## RECENT HISTORY
@@ -83,6 +99,10 @@ Ashe is actively attempting to develop Resonance into a true Blood Demon Art.
 - A recurring traveller-feeding arrangement was established.
 - Memory Song was developed.
 - Blood Demon Art investigation began.
+- Permanent Anchors were established throughout the Songbound.
+- Hana, Mika, and Daichi became the three primary Anchors.
+- The entire Mizunashi Village became permanently connected to the Resonance network.
+- False Echo was demonstrated as an advanced Memory Song technique.
 
 ## WORLD INDEPENDENCE
 Demons, Demon Slayers, travellers, villages, merchants, officials, families, and other factions continue acting independently of Ashe. Canon events do not automatically centre on her.
