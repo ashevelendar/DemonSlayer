@@ -117,5 +117,8 @@ Ashe is now attempting to spread this divine association through the entire vill
 ## CHRONOLOGY CORRECTION
 The earlier record compressed the Mizunashi period too heavily. The campaign is now treated as roughly three years into Ashe's settlement there, not a few months. Weekly traveller feeding has therefore occurred repeatedly over several years rather than only a handful of times. Ashe's present capabilities reflect that accumulated feeding and experience.
 
+## HAVEN'S CALL
+Haven's Call is Ashe's newest sacred song, associated with The Choosing and Ashe's Haven. It is distinct from the Bliss Song and Deeper Voice. Its intended meaning is recognition: an adult who hears it in the context of the ritual understands that they have been selected and should feel anticipation and happiness about the prospect of reaching Ashe's Haven.
+
 ## WORLD INDEPENDENCE
 Demons, Demon Slayers, travellers, villages, merchants, officials, families, and other factions continue acting independently of Ashe. Canon events do not automatically centre on her.
