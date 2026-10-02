@@ -122,3 +122,9 @@ Haven's Call is Ashe's newest sacred song, associated with The Choosing and Ashe
 
 ## WORLD INDEPENDENCE
 Demons, Demon Slayers, travellers, villages, merchants, officials, families, and other factions continue acting independently of Ashe. Canon events do not automatically centre on her.
+
+
+## HEART OF THE HAVEN
+The Haven has developed a physical centre in Mizunashi. A large boulder was submerged in Ashe's blood for a full month, with additional blood and Resonance added daily. At the end of the month the villagers helped move the boulder into the middle of the village. Each house also has a blood-soaked stone near its foundation, connected to the wider Haven pattern.
+
+The Heart of the Haven is now Ashe's public "Inn": from this point onward, Ashe will conduct her singing only from the Heart. The village gathers around it for performances and ceremonies, while the surrounding Resonant Pattern and foundation stones extend its presence through Mizunashi.
