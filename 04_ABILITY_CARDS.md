@@ -67,8 +67,48 @@ A bounded memory can be made inaccessible, though the subject may recognize that
 
 A bounded memory can instead be reconstructed into a different coherent recollection, avoiding the obvious blank-memory effect.
 
+### The Deeper Voice
+**Status:** Established / developing
+
+A deeper evolution of Worship Song. It makes willing sacrifice and devotion feel sacred and emotionally profound, especially during communal ritual.
+
+### The Bliss Song
+**Status:** Established / developing
+
+A song capable of inducing temporary profound bliss and surrender. Memory and personality remain intact, and the effect ends when the song ends.
+
+### Secondary Resonant Anchoring
+**Status:** Demonstrated
+
+An offering exposed to Ashe's blood and song can retain a faint Resonance trace and act as a symbolic intermediary anchor.
+
+### The Offering Bowl
+**Status:** Established ritual focus
+
+A communal vessel beneath the shrine containing personal offerings. Blood and song have made it a powerful symbolic focus for village Resonance.
+
+### Misdirected Doubt
+**Status:** Demonstrated experimentally
+
+A False Echo application that redirects remembered doubt toward mundane causes rather than simply deleting it.
+
+### The Choosing
+**Status:** Active ritual
+
+When hungry, Ashe may select an adult for a private audience after the Bliss Song. The selected person disappears from the village, and many villagers interpret the disappearance as being called to Ashe's Haven. Children are never selected.
+
+### Ashe's Haven
+**Status:** Emerging religious concept
+
+A collectively imagined place of rest, relief, music, reunion, and safety. Villagers hold differing images of it rather than one fixed doctrine.
+
+### Haven's Call
+**Status:** Newly developed / ritual song
+
+A distinct song associated with the Choosing. An adult who hears it in that context understands that they have been selected and is encouraged to experience the approaching departure as a joyful, anticipated calling to Ashe's Haven.
+
 ## BLOOD DEMON ART INVESTIGATION
 
 **Status:** Active / Developing.
 
-The Blood Demon Art is now clearly manifesting through Blood Resonance, Permanent Anchors, Resonant Communion, Intent Transmission, and advanced Memory Song effects. Its ultimate form, range, cost, limits, and consequences remain unknown.
+The Blood Demon Art is now clearly manifesting through Blood Resonance, Permanent Anchors, Resonant Communion, Intent Transmission, advanced Memory Song effects, ritual songs, communal symbolic anchoring, and increasingly sophisticated memory-context manipulation. Its ultimate form, range, cost, limits, and consequences remain unknown.
