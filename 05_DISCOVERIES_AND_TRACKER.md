@@ -107,3 +107,17 @@ Connection strength varies. Ashe can sense broad emotional disturbances but cann
 - The entire Mizunashi Village became permanently connected.
 - False Echo was demonstrated as an advanced Memory Song technique.
 - False Echo was extended through the village hierarchy, embedding Ashe into memories of happiness, sadness, love, celebration, comfort, loneliness, and ordinary life.
+
+
+## HAVEN DEVELOPMENT
+### Resonant Vessels
+Objects can hold an emotional imprint of Ashe's Resonance.
+
+### Mizunashi Haven Pattern
+The village is being turned into one continuous Resonant structure. Every house has a blood-soaked stone near its foundation, while additional vessels form the connections and emotional atmosphere.
+
+### Heart of the Haven
+A large boulder was immersed in Ashe's blood for a month, with more blood added every day. The villagers then helped move it into the middle of Mizunashi. Ashe has designated the Heart as her public "Inn" and will sing only from the Heart from now on.
+
+### Current Investigation
+Determine what happens when the Heart, the foundation stones, the wider Resonant Pattern, and Ashe's Permanent Anchors operate as one structure. Exact range, strength, cost, and long-term consequences remain unknown.
