@@ -75,9 +75,13 @@ Established techniques:
 
 Ashe's Resonance has begun behaving as a true Blood Demon Art. Blood can carry Resonance, establish persistent Anchors, form hierarchical networks, and support advanced Memory Song effects.
 
-**False Echo** can reconstruct a bounded memory into a different coherent recollection rather than leaving an obvious blank. It has now been extended through the village hierarchy. Ashe can weave herself into memories of grief, happiness, love, celebration, loneliness, comfort, and ordinary life. The recollections remain individually coherent and preserve the existence of other people and events, but Ashe increasingly appears as a recurring presence in villagers' personal histories.
+**False Echo** can reconstruct a bounded memory into a different coherent recollection rather than leaving an obvious blank. It has now been extended through the village hierarchy. Ashe can weave herself into memories of grief, happiness, love, celebration, loneliness, comfort, and ordinary life.
 
-The village does not share one identical fabricated history. Each person's memories have been reconstructed according to their own experiences.
+The village does not share one identical fabricated history. Each person's memories remain individually coherent and preserve their existing people and events.
+
+False Echo has now entered religious memory. Ashe can appear in memories of prayer, sacred moments, divine comfort, visions, and appeals to higher powers. She has begun shaping some of these memories so that villagers remember Ashe as a manifestation, messenger, vessel, or visible presence of the higher power they already believed in. The interpretation varies between individuals rather than becoming one uniform doctrine.
+
+Ashe is now attempting to spread this divine association through the entire village hierarchy.
 
 ## GOALS
 **PRIMARY:** Become powerful enough to eventually challenge for Upper Rank.
@@ -106,6 +110,9 @@ The village does not share one identical fabricated history. Each person's memor
 - The entire Mizunashi Village became permanently connected to the Resonance network.
 - False Echo was demonstrated as an advanced Memory Song technique.
 - False Echo was extended through the village hierarchy, embedding Ashe into memories of happiness, sadness, love, celebration, comfort, loneliness, and ordinary life.
+- False Echo entered religious memory.
+- Ashe began appearing in reconstructed memories as a manifestation, messenger, vessel, or visible presence of existing higher powers.
+- Ashe began extending that divine association through the village hierarchy.
 
 ## WORLD INDEPENDENCE
 Demons, Demon Slayers, travellers, villages, merchants, officials, families, and other factions continue acting independently of Ashe. Canon events do not automatically centre on her.
