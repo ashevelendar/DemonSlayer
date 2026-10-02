@@ -4,18 +4,18 @@
 **Demon Slayer Sandbox**
 
 ## Era
-1862, roughly 50 years before the main Demon Slayer canon.
+**1865**, roughly 47 years before the main Demon Slayer canon. Roughly three years have passed since Ashe established herself in Mizunashi Village.
 
 ## Player Character
 **Ashe**, age 20, female, demon. Former village inn singer. Cunning, charming, kind.
 
 ### Statistics
-- Strength: 9/20
-- Dexterity: 17/20
-- Constitution: 9/20
-- Intelligence: 12/20
-- Charisma: 18/20
-- Resonance: 17/20
+- Strength: 15/20
+- Dexterity: 19/20
+- Constitution: 15/20
+- Intelligence: 14/20
+- Charisma: 19/20
+- Resonance: 20/20
 
 ## CURRENT LOCATION
 **Mizunashi Village, Kii Province**
@@ -25,7 +25,7 @@ This is a different settlement from Ashe's birthplace. Ashe's birthplace contain
 ## Mizunashi Village
 A remote rural settlement of roughly 90 people with an inn, surrounding forest, mountain paths, and occasional traveller traffic.
 
-Ashe established herself here as a singer. Weekly performances became a major village tradition, and the entire village is now permanently connected to Ashe's developing Resonance network.
+Ashe established herself here as a singer. Weekly performances became a major village tradition. Roughly three years have passed since she settled here, with the recurring traveller-feeding arrangement operating for most of that period. The entire village is now permanently connected to Ashe's developing Resonance network.
 
 ## SONGBOUND FACTION
 The Songbound are a persistent social faction of 29 members centred on Ashe's performances.
@@ -48,7 +48,7 @@ Repeated exposure through common ale, baked goods, well water, and performances 
 The network can transmit broad emotional states and simple intentions. Individual minds remain distinct.
 
 ## FEEDING
-After weekly performances, the First Circle may discreetly bring a suitable traveller to Ashe's private basement room when circumstances allow. They leave immediately and do not interfere.
+After weekly performances, the First Circle may discreetly bring a suitable adult traveller to Ashe's private basement room when circumstances allow. This arrangement has operated for roughly three years. Children are never selected. The cumulative feeding has produced substantial physical growth, experience, and improved control, although Ashe remains far below established Upper Rank power.
 
 ## RESONANCE
 Resonance is a developing supernatural vocal ability at 17/20.
@@ -113,6 +113,9 @@ Ashe is now attempting to spread this divine association through the entire vill
 - False Echo entered religious memory.
 - Ashe began appearing in reconstructed memories as a manifestation, messenger, vessel, or visible presence of existing higher powers.
 - Ashe began extending that divine association through the village hierarchy.
+
+## CHRONOLOGY CORRECTION
+The earlier record compressed the Mizunashi period too heavily. The campaign is now treated as roughly three years into Ashe's settlement there, not a few months. Weekly traveller feeding has therefore occurred repeatedly over several years rather than only a handful of times. Ashe's present capabilities reflect that accumulated feeding and experience.
 
 ## WORLD INDEPENDENCE
 Demons, Demon Slayers, travellers, villages, merchants, officials, families, and other factions continue acting independently of Ashe. Canon events do not automatically centre on her.
