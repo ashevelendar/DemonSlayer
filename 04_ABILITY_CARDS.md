@@ -112,3 +112,19 @@ A distinct song associated with the Choosing. An adult who hears it in that cont
 **Status:** Active / Developing.
 
 The Blood Demon Art is now clearly manifesting through Blood Resonance, Permanent Anchors, Resonant Communion, Intent Transmission, advanced Memory Song effects, ritual songs, communal symbolic anchoring, and increasingly sophisticated memory-context manipulation. Its ultimate form, range, cost, limits, and consequences remain unknown.
+
+
+### Resonant Vessels and Patterns
+**Status:** Developing.
+
+Ashe can imprint emotional Resonance into physical objects. Multiple vessels can be arranged into a larger Resonant Pattern whose overlapping fields create a sustained emotional atmosphere. Mizunashi is being developed as a permanent Haven Pattern, with vessels throughout the village and a blood-soaked stone near each house foundation.
+
+### Blood-Bound Vessels
+**Status:** Newly demonstrated.
+
+Ashe can allow her blood to soak deeply into a wooden object, leaving a stronger persistent Resonance connection than a surface imprint. The connection can be sensed at distance and can interact with the wider Haven Pattern.
+
+### Heart of the Haven
+**Status:** Established / developing.
+
+A large boulder was immersed in Ashe's blood for one month, with additional blood and Resonance added daily. It now stands in the centre of Mizunashi and acts as the central physical node of the Haven Pattern. Ashe has designated it her public "Inn" and will sing only from the Heart from this point onward. Its full capabilities and limits remain unknown.
