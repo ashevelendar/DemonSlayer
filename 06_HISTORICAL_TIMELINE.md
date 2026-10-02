@@ -114,4 +114,4 @@ Religious belief remains diverse and individually interpreted, but Ashe is incre
 Whether Mizunashi eventually regards Ashe as a divine manifestation, messenger, spirit, saint-like figure, or something unique to the village remains to be seen.
 
 ## CURRENT ERA
-1862. Exact date and time remain intentionally unassigned beyond the established sequence of events.
+**1865.** Roughly three years have passed since Ashe established herself in Mizunashi Village. Exact day and month remain intentionally unassigned.
