@@ -50,3 +50,7 @@ First Circle, Devoted, Local Liaison, primary Resonance Anchor. Quiet, practical
 
 ### The Listener
 Publicly an ordinary/Companion-level Songbound member. Secretly reports village conversations, reactions, rumours, and suspicion to Ashe. Does not reveal the assignment.
+
+
+## Current Development: The Heart of the Haven
+Ashe has established a large blood-saturated boulder at the centre of Mizunashi after preparing it in a barrel of her blood for one month, adding more blood and Resonance every day. The villagers helped move it into the village. Each house also has a blood-soaked stone near its foundation. Ashe now treats the Heart as her public "Inn" and intends to sing only from it, making the stone the ceremonial centre of her relationship with the village.
