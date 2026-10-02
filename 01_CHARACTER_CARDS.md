@@ -12,12 +12,12 @@
 - Goal: Eat, evolve, grow stronger, eventually challenge for an Upper Rank position.
 
 ### Statistics
-- Strength: 9/20
-- Dexterity: 17/20
-- Constitution: 9/20
-- Intelligence: 12/20
-- Charisma: 18/20
-- Resonance: 17/20
+- Strength: 15/20
+- Dexterity: 19/20
+- Constitution: 15/20
+- Intelligence: 14/20
+- Charisma: 19/20
+- Resonance: 20/20
 
 ### Abilities
 - Singing & Vocal Performance: high proficiency.
