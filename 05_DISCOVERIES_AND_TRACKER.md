@@ -5,8 +5,8 @@
 [░░░░░░░░░░] 0%
 
 ## SECONDARY GOALS
-[████████░░] 80% - Develop supernatural abilities
-[███████░░░] 70% - Establish and expand the Songbound
+[█████████░] 90% - Develop supernatural abilities
+[████████░░] 80% - Establish and expand the Songbound
 [███░░░░░░░] 30% - Learn what being a demon actually means
 [███░░░░░░░] 30% - Learn how to survive as a demon
 [█░░░░░░░░░] 10% - Understand Muzan and his hierarchy
@@ -52,7 +52,9 @@ Connection strength varies. Ashe can sense broad emotional disturbances but cann
 - The entire Mizunashi population is now connected to the network.
 - Memory Severance can remove access to a bounded memory.
 - False Echo can reconstruct a bounded memory into a different coherent recollection.
-- False Echo has not yet been tested as a full village-wide hierarchical transmission.
+- False Echo has now been extended through the village hierarchy.
+- Ashe can be woven into memories of grief, happiness, love, celebration, loneliness, comfort, and ordinary life.
+- The rewritten memories remain individually coherent rather than becoming one identical shared history.
 - Weekly village performances reinforce Ashe-associated emotional memories.
 - Mizunashi Village is a separate settlement from Ashe's birthplace.
 
@@ -71,7 +73,7 @@ Connection strength varies. Ashe can sense broad emotional disturbances but cann
 [███████░░░] 70%
 
 ### Village Emotional Influence
-[█████████░] 90%
+[██████████] 100%
 
 ### Songbound Network
 [██████████] 100%
@@ -99,3 +101,4 @@ Connection strength varies. Ashe can sense broad emotional disturbances but cann
 - Blood exposure through ale, baked goods, and well water expanded the network.
 - The entire Mizunashi Village became permanently connected.
 - False Echo was demonstrated as an advanced Memory Song technique.
+- False Echo was extended through the village hierarchy, embedding Ashe into memories of happiness, sadness, love, celebration, comfort, loneliness, and ordinary life.
