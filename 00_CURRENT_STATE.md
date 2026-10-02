@@ -75,7 +75,9 @@ Established techniques:
 
 Ashe's Resonance has begun behaving as a true Blood Demon Art. Blood can carry Resonance, establish persistent Anchors, form hierarchical networks, and support advanced Memory Song effects.
 
-**False Echo** can reconstruct a bounded memory into a different coherent recollection rather than leaving an obvious blank. Its reliability through the full village hierarchy remains untested.
+**False Echo** can reconstruct a bounded memory into a different coherent recollection rather than leaving an obvious blank. It has now been extended through the village hierarchy. Ashe can weave herself into memories of grief, happiness, love, celebration, loneliness, comfort, and ordinary life. The recollections remain individually coherent and preserve the existence of other people and events, but Ashe increasingly appears as a recurring presence in villagers' personal histories.
+
+The village does not share one identical fabricated history. Each person's memories have been reconstructed according to their own experiences.
 
 ## GOALS
 **PRIMARY:** Become powerful enough to eventually challenge for Upper Rank.
@@ -103,6 +105,7 @@ Ashe's Resonance has begun behaving as a true Blood Demon Art. Blood can carry R
 - Hana, Mika, and Daichi became the three primary Anchors.
 - The entire Mizunashi Village became permanently connected to the Resonance network.
 - False Echo was demonstrated as an advanced Memory Song technique.
+- False Echo was extended through the village hierarchy, embedding Ashe into memories of happiness, sadness, love, celebration, comfort, loneliness, and ordinary life.
 
 ## WORLD INDEPENDENCE
 Demons, Demon Slayers, travellers, villages, merchants, officials, families, and other factions continue acting independently of Ashe. Canon events do not automatically centre on her.
