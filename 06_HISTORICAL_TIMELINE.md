@@ -64,5 +64,26 @@ The network remains hierarchical and varies in strength. Ashe can sense broad em
 ### False Echo
 Ashe advanced Memory Song beyond simple emotional weighting and memory severance. A bounded memory can now be reconstructed into a different coherent recollection rather than leaving an obvious blank.
 
-### CURRENT ERA
+### The Village Remembers Ashe
+Ashe extended False Echo through the hierarchy and began reconstructing memories throughout Mizunashi.
+
+Grief no longer belonged only to the people who had helped them. Happiness was no longer remembered without Ashe. Memories of first loves, family celebrations, lonely nights, childhood games, illnesses, recoveries, arguments, reconciliations, and quiet evenings gradually acquired a place for her.
+
+She did not replace the people who had truly been there. Instead, in each person's memory, Ashe became someone who had also been there.
+
+A young woman remembered Ashe singing after the death of her father.
+
+An old farmer remembered Ashe laughing with him during a harvest years ago.
+
+A husband remembered Ashe speaking with his wife before they married.
+
+A child remembered Ashe sitting nearby during a fever.
+
+None of the memories were identical. Each mind retained its own history, its own relationships, and its own version of Ashe.
+
+But the pattern became unmistakable.
+
+Across Mizunashi, Ashe was becoming a familiar figure in the emotional history of almost everyone.
+
+## CURRENT ERA
 1862. Exact date and time remain intentionally unassigned beyond the established sequence of events.
