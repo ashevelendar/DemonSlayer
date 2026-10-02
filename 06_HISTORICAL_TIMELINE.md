@@ -115,3 +115,11 @@ Whether Mizunashi eventually regards Ashe as a divine manifestation, messenger, 
 
 ## CURRENT ERA
 **1865.** Roughly three years have passed since Ashe established herself in Mizunashi Village. The weekly traveller-feeding tradition has therefore continued for years rather than months, producing substantial growth beyond her freshly transformed state. Exact day and month remain intentionally unassigned.
+
+
+### The Heart of the Haven
+After developing Resonant Vessels and a village-wide Resonant Pattern, Ashe began constructing a permanent centre for it. She collected a large boulder and submerged it in a barrel of her blood for one month, adding more blood and Resonance every day. Once the saturation was complete, the villagers helped move the boulder into the middle of Mizunashi.
+
+Every house also received a blood-soaked stone close to its foundation, tying the homes into the wider Haven pattern. The central boulder became the physical heart of the network and the centre of Ashe's growing faith.
+
+Ashe declared that the Heart would become her public "Inn". From this point onward, she will sing only from the Heart, making it the sole place from which her public songs and ceremonies are performed.
