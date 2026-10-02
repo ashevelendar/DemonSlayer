@@ -35,7 +35,7 @@
 - The Listener: secret Songbound intelligence asset.
 
 ### History
-Ashe was transformed in 1862, fed three times during her first night, returned to her family home for shelter, then left her birthplace and established herself in Mizunashi Village. She developed Resonance, built the Songbound hierarchy, established weekly village gatherings, appointed a secret Listener, established a recurring traveller-feeding arrangement, developed Memory Song, created permanent Anchors throughout Songbound, established Hana, Mika, and Daichi as primary Anchors, extended the Resonance network across the entire village, and advanced Memory Song into False Echo.
+Ashe was transformed in 1862, fed three times during her first night, returned to her family home for shelter, then left her birthplace and established herself in Mizunashi Village. Roughly three years have now passed. During that time she developed Resonance, built the Songbound hierarchy, established weekly village gatherings, appointed a secret Listener, and maintained a recurring adult traveller-feeding arrangement for most of the period. The accumulated feeding has substantially increased her physical capabilities, regeneration, stamina, hunting experience, and practical control of her demonic body. She created permanent Anchors throughout Songbound, established Hana, Mika, and Daichi as primary Anchors, extended the Resonance network across the entire village, and advanced Memory Song into False Echo. Her later Blood Demon Art development includes the Deeper Voice, Bliss Song, Offering Bowl, Misdirected Doubt, The Choosing, Ashe's Haven, and Haven's Call.
 
 ## IMPORTANT NPC CARDS
 
