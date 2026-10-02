@@ -5,11 +5,16 @@
 [░░░░░░░░░░] 0%
 
 ## SECONDARY GOALS
-[█████████░] 90% - Develop supernatural abilities
+[██████████] 100% - Develop supernatural abilities
 [████████░░] 80% - Establish and expand the Songbound
 [███░░░░░░░] 30% - Learn what being a demon actually means
 [███░░░░░░░] 30% - Learn how to survive as a demon
 [█░░░░░░░░░] 10% - Understand Muzan and his hierarchy
+
+## CURRENT ERA
+**1865. Roughly three years have passed since Ashe established herself in Mizunashi Village.**
+
+The recurring adult traveller-feeding arrangement has operated repeatedly over several years. The cumulative feeding has produced substantial physical growth and experience. Ashe is significantly stronger than the freshly transformed demon who first arrived, though still far from Upper Rank power.
 
 ## CURRENT LOCATION
 **Mizunashi Village, Kii Province**
