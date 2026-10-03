@@ -123,3 +123,22 @@ After developing Resonant Vessels and a village-wide Resonant Pattern, Ashe bega
 Every house also received a blood-soaked stone close to its foundation, tying the homes into the wider Haven pattern. The central boulder became the physical heart of the network and the centre of Ashe's growing faith.
 
 Ashe declared that the Heart would become her public "Inn". From this point onward, she will sing only from the Heart, making it the sole place from which her public songs and ceremonies are performed.
+
+
+### The Sovereign Song Perfected
+Ashe combined the Sovereign Song with Deeper Voice through the Heart of the Haven. The technique developed from conscious pressure into a deeper attack on the formation of contrary decisions. Within the established Haven, Permanent Anchors became highly vulnerable to the effect.
+
+### Mizunashi Made Fully Permanent
+Ashe used the completed Haven network to make the entire settled population permanently Resonance-anchored. The Heart, foundation stones, Resonant Vessels, blood exposure, and village-wide Pattern became one persistent structure.
+
+### The Sovereign Village
+Ashe used the perfected Sovereign Song and Deeper Voice across Mizunashi to suppress independent will. Villagers retained memories, language, perception, skills, and recognition, but no longer possessed an independent source of choice or resistance.
+
+### Personality Severance
+Ashe went further. She stripped the inhabitants of individual personality, preferences, ambitions, quirks, and personal desires. She deliberately retained enough functional cognition for them to perceive, remember, understand language, recognise Ashe, use learned skills, and execute orders.
+
+Mizunashi remains outwardly functional.
+
+But beneath that ordinary appearance, its settled population now exists under Ashe's sole authority.
+
+The consequences of extending this state beyond the Haven remain unknown.
