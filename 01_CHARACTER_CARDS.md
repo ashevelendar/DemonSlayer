@@ -22,10 +22,12 @@
 ### Abilities
 - Singing & Vocal Performance: high proficiency.
 - Demonic Physiology: developing.
-- Resonance: developing supernatural vocal influence.
-- Memory Song: established experimental Resonance technique.
-- Blood Demon Art: developing through Resonant Communion and Blood Resonance.
-- False Echo: advanced Memory Song technique capable of reconstructing bounded memories into different coherent recollections.
+- Resonance: mature Blood Demon Art, advanced.
+- Memory Song: established.
+- Blood Demon Art: advanced through Blood Resonance, Permanent Anchors, Resonant Communion, the Haven, Sovereign Song, and Deeper Voice.
+- The Sovereign Song: village-scale suppression of independent choice through the completed Haven.
+- Deeper Sovereign: Sovereign Song carried beneath conscious resistance through Deeper Voice.
+- Personality Severance: strips individual personality while preserving functional cognition, memories, skills, language, perception, recognition, and obedience.
 
 ### Relationships
 - Muzan Kibutsuji: creator/master.
@@ -35,22 +37,25 @@
 - The Listener: secret Songbound intelligence asset.
 
 ### History
-Ashe was transformed in 1862, fed three times during her first night, returned to her family home for shelter, then left her birthplace and established herself in Mizunashi Village. Roughly three years have now passed. During that time she developed Resonance, built the Songbound hierarchy, established weekly village gatherings, appointed a secret Listener, and maintained a recurring adult traveller-feeding arrangement for most of the period. The accumulated feeding has substantially increased her physical capabilities, regeneration, stamina, hunting experience, and practical control of her demonic body. She created permanent Anchors throughout Songbound, established Hana, Mika, and Daichi as primary Anchors, extended the Resonance network across the entire village, and advanced Memory Song into False Echo. Her later Blood Demon Art development includes the Deeper Voice, Bliss Song, Offering Bowl, Misdirected Doubt, The Choosing, Ashe's Haven, and Haven's Call.
+Ashe was transformed in 1862, fed three times during her first night, returned to her family home for shelter, then left her birthplace and established herself in Mizunashi Village. Roughly three years have now passed. During that time she developed Resonance, built the Songbound hierarchy, established weekly village gatherings, appointed a secret Listener, and maintained a recurring adult traveller-feeding arrangement for most of the period. The accumulated feeding substantially increased her physical capabilities, experience, regeneration, stamina, hunting experience, and practical control. She created Permanent Anchors throughout Songbound, established Hana, Mika, and Daichi as primary Anchors, extended the network across the entire village, advanced Memory Song into False Echo, created the Haven and Heart, perfected Sovereign Song with Deeper Voice, suppressed independent will throughout Mizunashi, and finally stripped away individual personality while preserving the functional capacities she considered necessary.
 
 ## IMPORTANT NPC CARDS
 
 ### Hana
-First Circle, Voice, Inn Steward, primary Resonance Anchor. Reliable, attentive, strongly attached to Ashe. Coordinates practical Songbound activity and serves as the Hearth node for the village network.
+First Circle, Voice, Inn Steward, primary Resonance Anchor. Formerly reliable and attentive. Her memories, practical knowledge, language, perception, and recognition of Ashe remain, but independent will and personality have been stripped away. She now executes Ashe's instructions without personal preference or resistance.
 
 ### Mika
-First Circle, Devoted, Performance Coordinator, primary Resonance Anchor. Social and enthusiastic. Coordinates performances and social activity and serves as the Voice node for the village network.
+First Circle, Devoted, Performance Coordinator, primary Resonance Anchor. Her memories, practical knowledge, language, perception, and recognition of Ashe remain, but independent will and personality have been stripped away. She now executes Ashe's instructions without personal preference or resistance.
 
 ### Daichi
-First Circle, Devoted, Local Liaison, primary Resonance Anchor. Quiet, practical, observant. Handles discreet local arrangements and traveller introductions and serves as the Watch node for the village network.
+First Circle, Devoted, Local Liaison, primary Resonance Anchor. His memories, practical knowledge, language, perception, and recognition of Ashe remain, but independent will and personality have been stripped away. He now executes Ashe's instructions without personal preference or resistance.
 
 ### The Listener
-Publicly an ordinary/Companion-level Songbound member. Secretly reports village conversations, reactions, rumours, and suspicion to Ashe. Does not reveal the assignment.
-
+Formerly a secret Songbound intelligence asset. The role is now functionally obsolete because Ashe can perceive and manage the Haven directly. The Listener retains memories, skills, language, perception, and recognition of Ashe, but independent will and personality have been stripped away.
 
 ## Current Development: The Heart of the Haven
-Ashe has established a large blood-saturated boulder at the centre of Mizunashi after preparing it in a barrel of her blood for one month, adding more blood and Resonance every day. The villagers helped move it into the village. Each house also has a blood-soaked stone near its foundation. Ashe now treats the Heart as her public "Inn" and intends to sing only from it, making the stone the ceremonial centre of her relationship with the village.
+Ashe established a large blood-saturated boulder at the centre of Mizunashi after preparing it in a barrel of her blood for one month, adding more blood and Resonance every day. The villagers helped move it into the village. Each house has a blood-soaked foundation stone.
+
+The Heart is Ashe's public "Inn" and sole public singing place. It is the central node of the completed Haven Pattern.
+
+The entire settled population is now permanently anchored. Ashe perfected the Sovereign Song with Deeper Voice, used it to suppress independent will across the Haven, then stripped away individual personality. Villagers retain memories, language, perception, learned skills, recognition of Ashe, and the ability to understand and execute orders, but no longer possess independent desires, ambitions, preferences, or resistance.
