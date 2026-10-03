@@ -41,11 +41,22 @@ The remaining 26 Songbound are permanent secondary Anchors and bridges into the 
 One Songbound member secretly listens among villagers and reports rumours, reactions, and suspicion to Ashe.
 
 ## RESONANCE NETWORK
-Mizunashi is now fully connected to Ashe's developing Blood Demon Art.
+Mizunashi is now fully connected to Ashe's Blood Demon Art and every settled villager is a Permanent Anchor.
 
-Repeated exposure through common ale, baked goods, well water, and performances has established permanent Resonance connections throughout the village. Connection strength varies, and Ashe cannot consciously process every individual simultaneously, so the First Circle and Songbound hierarchy carry the network.
+Repeated exposure through common ale, baked goods, well water, performances, household objects, blood-soaked foundation stones, and the wider Haven Pattern established persistent connections throughout the village. The Heart of the Haven and the foundation stones now operate as one village-wide Resonant structure.
 
-The network can transmit broad emotional states and simple intentions. Individual minds remain distinct.
+The perfected Sovereign Song, combined with Deeper Voice, has been transmitted through the completed Haven. Independent will has been suppressed throughout the settled population. Ashe then stripped away individual personality, preferences, ambitions, quirks, and personal desires.
+
+Villagers retain:
+- memories
+- perception
+- language
+- learned skills
+- recognition of Ashe
+- the ability to understand instructions
+- the ability to execute instructions
+
+They no longer generate independent desires, ambitions, arguments, resistance, or personal choices. Mizunashi remains outwardly functional under Ashe's sole authority.
 
 ## FEEDING
 After weekly performances, the First Circle may discreetly bring a suitable adult traveller to Ashe's private basement room when circumstances allow. This arrangement has operated for roughly three years. Children are never selected. The cumulative feeding has produced substantial physical growth, experience, and improved control, although Ashe remains far below established Upper Rank power.
@@ -71,17 +82,18 @@ Established techniques:
 - False Echo
 
 ## BLOOD DEMON ART
-**Status:** Developing.
+**Status:** Advanced / developing.
 
-Ashe's Resonance has begun behaving as a true Blood Demon Art. Blood can carry Resonance, establish persistent Anchors, form hierarchical networks, and support advanced Memory Song effects.
+Ashe's Resonance now functions as a mature Blood Demon Art. Blood can carry Resonance, establish persistent Anchors, imprint emotions into objects, form large Resonant Patterns, support the village-wide Haven, and transmit the Sovereign Song through the completed network.
 
-**False Echo** can reconstruct a bounded memory into a different coherent recollection rather than leaving an obvious blank. It has now been extended through the village hierarchy. Ashe can weave herself into memories of grief, happiness, love, celebration, loneliness, comfort, and ordinary life.
+### The Sovereign Song
+The Sovereign Song evolved from an attempt to suppress independent choice into a permanent village-scale Blood Demon Art when combined with Deeper Voice and the Haven. It attacks the formation of contrary decisions rather than merely persuading emotion.
 
-The village does not share one identical fabricated history. Each person's memories remain individually coherent and preserve their existing people and events.
+### Deeper Sovereign
+The combination of Sovereign Song and Deeper Voice allows Ashe to carry the command beneath ordinary conscious resistance. Within the completed Haven, the effect can persist after the song ends because every settled villager is permanently anchored.
 
-False Echo has now entered religious memory. Ashe can appear in memories of prayer, sacred moments, divine comfort, visions, and appeals to higher powers. She has begun shaping some of these memories so that villagers remember Ashe as a manifestation, messenger, vessel, or visible presence of the higher power they already believed in. The interpretation varies between individuals rather than becoming one uniform doctrine.
-
-Ashe is now attempting to spread this divine association through the entire village hierarchy.
+### Personality Severance
+After suppressing independent will, Ashe used the Haven network to strip away individual personality. The effect deliberately leaves enough cognition for villagers to perceive, remember, speak, recognise Ashe, use learned skills, understand instructions, and execute them. Personal preference, ambition, emotional individuality, independent desire, and resistance are removed.
 
 ## GOALS
 **PRIMARY:** Become powerful enough to eventually challenge for Upper Rank.
@@ -125,6 +137,10 @@ Demons, Demon Slayers, travellers, villages, merchants, officials, families, and
 
 
 ## HEART OF THE HAVEN
-The Haven has developed a physical centre in Mizunashi. A large boulder was submerged in Ashe's blood for a full month, with additional blood and Resonance added daily. At the end of the month the villagers helped move the boulder into the middle of the village. Each house also has a blood-soaked stone near its foundation, connected to the wider Haven pattern.
+The Haven has developed a physical centre in Mizunashi. A large boulder was submerged in Ashe's blood for a full month, with additional blood and Resonance added daily. At the end of the month the villagers helped move the boulder into the middle of the village. Each house has a blood-soaked foundation stone connected to the wider Haven Pattern.
 
-The Heart of the Haven is now Ashe's public "Inn": from this point onward, Ashe will conduct her singing only from the Heart. The village gathers around it for performances and ceremonies, while the surrounding Resonant Pattern and foundation stones extend its presence through Mizunashi.
+The Heart is now Ashe's public "Inn" and sole public singing place. The Heart, foundation stones, Resonant Vessels, Permanent Anchors, and village-wide Pattern form one persistent structure.
+
+The entire settled population is permanently anchored. The Sovereign Song and Deeper Voice have been integrated into the Haven. Mizunashi's inhabitants retain memories and functional skills but no longer possess independent will or personality.
+
+The full range, cost, and consequences of extending these effects beyond Mizunashi remain unknown.
