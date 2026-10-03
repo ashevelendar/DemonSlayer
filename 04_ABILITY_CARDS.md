@@ -127,4 +127,31 @@ Ashe can allow her blood to soak deeply into a wooden object, leaving a stronger
 ### Heart of the Haven
 **Status:** Established / developing.
 
-A large boulder was immersed in Ashe's blood for one month, with additional blood and Resonance added daily. It now stands in the centre of Mizunashi and acts as the central physical node of the Haven Pattern. Ashe has designated it her public "Inn" and will sing only from the Heart from this point onward. Its full capabilities and limits remain unknown.
+A large boulder was immersed in Ashe's blood for one month, with additional blood and Resonance added daily. It now stands in the centre of Mizunashi and acts as the central physical node of the Haven Pattern. Ashe has designated it her public "Inn" and will sing only from the Heart.
+
+The Heart connects the foundation stones, Resonant Vessels, Permanent Anchors, and village-wide Pattern into one persistent structure.
+
+### The Sovereign Song
+**Status:** Advanced / established within the Haven.
+
+A Blood Demon Art song designed to suppress the formation of contrary decisions rather than merely influence emotion. In its earlier form it could be resisted. Combined with Deeper Voice and the completed Haven, it can now be transmitted across the permanently anchored Mizunashi population and persist through the network after the singing ends.
+
+### Deeper Sovereign
+**Status:** Established / developing.
+
+The Sovereign Song layered with Deeper Voice. The deeper layer carries the command beneath ordinary conscious resistance, making the technique substantially more effective against Permanent Anchors and especially potent within the completed Haven.
+
+### Village-Wide Sovereignty
+**Status:** Demonstrated.
+
+The entire settled population of Mizunashi is permanently anchored. The Haven can carry Sovereign Song through every established connection simultaneously. The population can be directed as a single obedient community.
+
+### Personality Severance
+**Status:** Demonstrated.
+
+After suppressing independent will, Ashe can strip away individual personality, preferences, ambitions, quirks, and personal desires. She deliberately retains functional cognition: memory, perception, language, recognition of Ashe, learned skills, understanding, and execution of orders.
+
+### Blood Demon Art Investigation
+**Status:** Active / Developing.
+
+The Blood Demon Art now encompasses Blood Resonance, Permanent Anchors, Resonant Communion, Intent Transmission, advanced Memory Song effects, Resonant Vessels, Resonant Patterns, the Heart of the Haven, Sovereign Song, Deeper Sovereign, Village-Wide Sovereignty, and Personality Severance. Its ultimate range, cost, and consequences beyond Mizunashi remain unknown.
